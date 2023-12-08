@@ -1,0 +1,4 @@
+:after,:before{padding:0;margin:0;border:0;box-sizing:border-box}
+.wrapper{display:block;position:relative;margin:0 auto;width:550px;height:5000px;color:red;background-color:#0ff}
+.large_image,.small_image,.top__banner{position:relative;padding:0 14px 28px 14px}
+.side__banner{position:absolute;top:0;right:0}
